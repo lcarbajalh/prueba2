@@ -5,9 +5,6 @@ ahora si tenemos cabecera BIEN
 segunda
 oal pues
 modificacion desde la web
-<<<<<<< HEAD
-=======
 ahora todo ok
 veremos si sube ok
 esto tiene que ser eliminado
->>>>>>> parent of e4a9ba3... reffr
