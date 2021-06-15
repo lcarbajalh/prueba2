@@ -2,7 +2,10 @@ nombre: Luis
 Apellido: Carbajal
 Edad 30
 ahora si tenemos cabecera BIEN
+<<<<<<< HEAD
 segunda
 oal pues
 modificacion desde la web
 ahora todo ok
+=======
+>>>>>>> parent of 24ccd30... segunda
