@@ -2,6 +2,11 @@ nombre: Luis
 Apellido: Carbajal
 Edad 30
 ahora si tenemos cabecera BIEN
+<<<<<<< HEAD
 segunda
 oal pues
 modificacion desde la web
+=======
+no se
+main main main
+>>>>>>> 851c65cdb7909f509b41b6aef712635f835cbb57
