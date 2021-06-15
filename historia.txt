@@ -6,5 +6,3 @@ segunda
 oal pues
 modificacion desde la web
 ahora todo ok
-veremos si sube ok
-esto tiene que ser eliminado
